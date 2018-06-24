@@ -14,7 +14,7 @@ In Ruby, there are a few methods available to us for converting data types. For 
 
 The `.split` method will convert a string into an array. The `.split` method takes an argument of the character in the string on which you want to split it. For example, if we have a string that contains a comma-separated list of items: 
 
-`"hippo,giraffe,monkey,horse"`
+`"hippo,giraffe,monkey,horse"`b
 
 We can call `.split` on it, with an argument of a `,` ("comma") to get an array of animal names:
 
